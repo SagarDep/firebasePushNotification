@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045252281512",
+    "firebase_url": "https://pushnotification-36828.firebaseio.com",
+    "project_id": "pushnotification-36828",
+    "storage_bucket": "pushnotification-36828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045252281512:android:c0bf96a1558e3ef5",
+        "android_client_info": {
+          "package_name": "com.example.putuguna.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045252281512-ppoe9f99jmka2uc3u6c0kqis8dsjhovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtY5pqSV9LcCKLDy_oipKp6esEm0plYhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_ea7231ef29d10d28d2d5bf9faeb99d9bff4bf173.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b2428542b57cb78b62d6b1960c44fe23d31e8739.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_22ce72e8f23d44ce683ea1064446e5e69238bd33.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_907495932c8424d7a668867b031a89a47f48b28f.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_f2192c2f82e825b08381fb0267393aa0b1ec1993.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5471a863b2df90a77a0fe30f65c6cfaa82c89a30.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_72e658d161bf5b410de5e7637259e785df26c632.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_e1671e80df74dddcad90ef767c39b6c617bd5dfa.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_fb1a5559833dd48e44933a27d325852e1e076623.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d99639abd4496d874e38ac717bab4380570df554.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f144da1289b610ac51cee8be7d60402965f653f3.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_be7d9b02d96f413f9acdd996d97a94ab6b6de0da.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_2f84bb3ba1cacbf887e2f776611757fb073ab39a.jar" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/putuguna/AndroidStudioProjects/FirebaseNotif/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_de36c3dfea84a355a76a8de1aa13cb02d851d3c9.jar" />
+    </item>
+
+</items>
